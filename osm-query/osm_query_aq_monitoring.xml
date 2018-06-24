@@ -1,0 +1,22 @@
+<osm-script output="json" output-config="" timeout="25">
+  <union into="_">
+    <query into="_" type="node">
+      <has-kv k="man_made" modv="" v="monitoring_station"/>
+      <has-kv k="monitoring:air_quality" modv="" v="yes"/>
+      <bbox-query s="-33.984363728292" w="150.94116210938" n="-33.733476705993" e="151.26663208008"/>
+    </query>
+    <query into="_" type="way">
+      <has-kv k="man_made" modv="" v="monitoring_station"/>
+      <has-kv k="monitoring:air_quality" modv="" v="yes"/>
+      <bbox-query s="-33.984363728292" w="150.94116210938" n="-33.733476705993" e="151.26663208008"/>
+    </query>
+    <query into="_" type="relation">
+      <has-kv k="man_made" modv="" v="monitoring_station"/>
+      <has-kv k="monitoring:air_quality" modv="" v="yes"/>
+      <bbox-query s="-33.984363728292" w="150.94116210938" n="-33.733476705993" e="151.26663208008"/>
+    </query>
+  </union>
+  <print e="" from="_" geometry="skeleton" ids="yes" limit="" mode="body" n="" order="id" s="" w=""/>
+  <recurse from="_" into="_" type="down"/>
+  <print e="" from="_" geometry="skeleton" ids="yes" limit="" mode="skeleton" n="" order="quadtile" s="" w=""/>
+</osm-script>

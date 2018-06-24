@@ -1,0 +1,2618 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-06-23T04:26:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4369667",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "-1",
+        "lit": "24/7",
+        "location": "underground",
+        "maxheight": "4.6",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "M5 Motorway",
+        "note": "estimated path only, interpolated between tunnel entrances",
+        "old_network": "MR",
+        "old_ref": "5",
+        "oneway": "yes",
+        "ref": "M5",
+        "ref:start_date": "2013-08",
+        "source": "LPI Basemap",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.1530972,
+            -33.9378812
+          ],
+          [
+            151.1526493,
+            -33.9375679
+          ],
+          [
+            151.1518811,
+            -33.9371068
+          ],
+          [
+            151.1509498,
+            -33.9366352
+          ],
+          [
+            151.1506671,
+            -33.9365068
+          ],
+          [
+            151.1502101,
+            -33.9363508
+          ],
+          [
+            151.1494946,
+            -33.9361771
+          ],
+          [
+            151.1487973,
+            -33.9360247
+          ],
+          [
+            151.1473165,
+            -33.9357743
+          ],
+          [
+            151.145697,
+            -33.9355203
+          ],
+          [
+            151.1433447,
+            -33.9351478
+          ],
+          [
+            151.1415036,
+            -33.9349017
+          ],
+          [
+            151.1407594,
+            -33.9348232
+          ],
+          [
+            151.1398227,
+            -33.9347503
+          ],
+          [
+            151.1388555,
+            -33.9347128
+          ],
+          [
+            151.1378114,
+            -33.9347074
+          ],
+          [
+            151.1370967,
+            -33.9347393
+          ],
+          [
+            151.1360572,
+            -33.9348062
+          ],
+          [
+            151.1350741,
+            -33.9349226
+          ],
+          [
+            151.134469,
+            -33.9350119
+          ],
+          [
+            151.1338692,
+            -33.935109
+          ],
+          [
+            151.1324385,
+            -33.9354099
+          ],
+          [
+            151.1307803,
+            -33.9357752
+          ],
+          [
+            151.1286511,
+            -33.9362599
+          ],
+          [
+            151.1278163,
+            -33.9364202
+          ],
+          [
+            151.1272077,
+            -33.9365084
+          ],
+          [
+            151.1264693,
+            -33.9366036
+          ],
+          [
+            151.1257205,
+            -33.9366596
+          ],
+          [
+            151.125297,
+            -33.93668
+          ],
+          [
+            151.1248461,
+            -33.9366898
+          ],
+          [
+            151.1240757,
+            -33.9366862
+          ],
+          [
+            151.1234753,
+            -33.9366639
+          ],
+          [
+            151.1222959,
+            -33.936585
+          ],
+          [
+            151.1203226,
+            -33.9364433
+          ],
+          [
+            151.1179868,
+            -33.9362758
+          ],
+          [
+            151.1160431,
+            -33.9361394
+          ],
+          [
+            151.1151203,
+            -33.9360913
+          ],
+          [
+            151.1140965,
+            -33.9360691
+          ],
+          [
+            151.1132716,
+            -33.9360695
+          ],
+          [
+            151.1121742,
+            -33.9361046
+          ],
+          [
+            151.1113521,
+            -33.9361618
+          ]
+        ]
+      },
+      "id": "way/4369667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4369668",
+        "bicycle": "no",
+        "foot": "no",
+        "highway": "motorway",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "-1",
+        "lit": "24/7",
+        "location": "underground",
+        "maxheight": "4.6",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "M5 Motorway",
+        "old_network": "MR",
+        "old_ref": "5",
+        "oneway": "yes",
+        "ref": "M5",
+        "source": "LPI Basemap",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.1112112,
+            -33.9359337
+          ],
+          [
+            151.1127553,
+            -33.9358951
+          ],
+          [
+            151.1138819,
+            -33.9359091
+          ],
+          [
+            151.1146842,
+            -33.9359515
+          ],
+          [
+            151.1161675,
+            -33.9360642
+          ],
+          [
+            151.1185627,
+            -33.9362532
+          ],
+          [
+            151.1201115,
+            -33.9363736
+          ],
+          [
+            151.1219335,
+            -33.9365116
+          ],
+          [
+            151.1234879,
+            -33.9366323
+          ],
+          [
+            151.1245359,
+            -33.9366612
+          ],
+          [
+            151.1254665,
+            -33.9366438
+          ],
+          [
+            151.1265331,
+            -33.9365653
+          ],
+          [
+            151.1275479,
+            -33.9364288
+          ],
+          [
+            151.1288617,
+            -33.9361749
+          ],
+          [
+            151.1307044,
+            -33.9357592
+          ],
+          [
+            151.1323677,
+            -33.9353801
+          ],
+          [
+            151.1339848,
+            -33.9350431
+          ],
+          [
+            151.1347727,
+            -33.9349134
+          ],
+          [
+            151.1353046,
+            -33.9348446
+          ],
+          [
+            151.1359147,
+            -33.9347739
+          ],
+          [
+            151.1365068,
+            -33.9347168
+          ],
+          [
+            151.1370802,
+            -33.9346834
+          ],
+          [
+            151.1383552,
+            -33.9346421
+          ],
+          [
+            151.1393051,
+            -33.9346534
+          ],
+          [
+            151.1398431,
+            -33.9346755
+          ],
+          [
+            151.1405042,
+            -33.9347255
+          ],
+          [
+            151.1415421,
+            -33.9348274
+          ],
+          [
+            151.1429073,
+            -33.9349987
+          ],
+          [
+            151.1471902,
+            -33.9356249
+          ],
+          [
+            151.1483532,
+            -33.9357922
+          ],
+          [
+            151.1494437,
+            -33.9359892
+          ],
+          [
+            151.1500097,
+            -33.9361353
+          ],
+          [
+            151.1505491,
+            -33.9363137
+          ],
+          [
+            151.1509424,
+            -33.9364604
+          ],
+          [
+            151.1517486,
+            -33.9368551
+          ],
+          [
+            151.1522385,
+            -33.9371465
+          ],
+          [
+            151.1531689,
+            -33.937806
+          ]
+        ]
+      },
+      "id": "way/4369668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4377325",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "-1",
+        "lit": "24/7",
+        "location": "underground",
+        "maxheight": "5.0",
+        "maxspeed": "100",
+        "maxspeed:variable": "yes",
+        "name": "M2 Hills Motorway",
+        "note": "different maxheights for different directions",
+        "oneway": "yes",
+        "ref": "M2",
+        "source": "survey",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0858034,
+            -33.764128
+          ],
+          [
+            151.0908441,
+            -33.764125
+          ]
+        ]
+      },
+      "id": "way/4377325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4377326",
+        "bicycle": "yes",
+        "cycleway": "lane",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "-1",
+        "lit": "24/7",
+        "location": "underground",
+        "maxheight": "5.3",
+        "maxspeed": "100",
+        "maxspeed:variable": "yes",
+        "name": "M2 Hills Motorway",
+        "note": "different maxheights for different directions",
+        "oneway": "yes",
+        "ref": "M2",
+        "source": "yahoo_imagery",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0908718,
+            -33.7643138
+          ],
+          [
+            151.085776,
+            -33.7643165
+          ]
+        ]
+      },
+      "id": "way/4377326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5011620",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-3",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "name": "Sydney Harbour Tunnel Northbound",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "shoulder": "no",
+        "source": "interpolation",
+        "source:maxspeed": "pavement marking at south end of tunnel from nearmap",
+        "source:name": "knowledge",
+        "surface": "asphalt",
+        "toll": "no",
+        "tunnel": "yes",
+        "website": "http://sydneymotorways.com/",
+        "wikidata": "Q2373640",
+        "wikipedia": "en:Sydney Harbour Tunnel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.213723,
+            -33.8619449
+          ],
+          [
+            151.2137533,
+            -33.8600439
+          ],
+          [
+            151.2137426,
+            -33.8595671
+          ],
+          [
+            151.2136309,
+            -33.8581236
+          ],
+          [
+            151.2135874,
+            -33.8577602
+          ],
+          [
+            151.2135185,
+            -33.8571163
+          ],
+          [
+            151.2128083,
+            -33.8492579
+          ],
+          [
+            151.2127009,
+            -33.8477189
+          ],
+          [
+            151.2126183,
+            -33.847379
+          ],
+          [
+            151.2118931,
+            -33.845614
+          ],
+          [
+            151.2103106,
+            -33.841583
+          ]
+        ]
+      },
+      "id": "way/5011620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5011712",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-3",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "name": "Sydney Harbour Tunnel Southbound",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "shoulder": "no",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes",
+        "website": "http://sydneymotorways.com/",
+        "wikidata": "Q2373640",
+        "wikipedia": "en:Sydney Harbour Tunnel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2107428,
+            -33.841583
+          ],
+          [
+            151.2121631,
+            -33.8455339
+          ],
+          [
+            151.2123607,
+            -33.8461903
+          ],
+          [
+            151.2126598,
+            -33.8471773
+          ],
+          [
+            151.2127878,
+            -33.8476426
+          ],
+          [
+            151.2128977,
+            -33.8483653
+          ],
+          [
+            151.2129669,
+            -33.8491704
+          ],
+          [
+            151.2136476,
+            -33.8571084
+          ],
+          [
+            151.2138349,
+            -33.8596727
+          ],
+          [
+            151.2138435,
+            -33.8600461
+          ],
+          [
+            151.2138111,
+            -33.8620426
+          ]
+        ]
+      },
+      "id": "way/5011712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5197518",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-1",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2166225,
+            -33.8931659
+          ],
+          [
+            151.2168316,
+            -33.8919263
+          ]
+        ]
+      },
+      "id": "way/5197518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5197519",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-1",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2171355,
+            -33.8911332
+          ],
+          [
+            151.217081,
+            -33.8912601
+          ],
+          [
+            151.2169917,
+            -33.8915512
+          ],
+          [
+            151.2169157,
+            -33.8919263
+          ],
+          [
+            151.216852,
+            -33.8922976
+          ]
+        ]
+      },
+      "id": "way/5197519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8598627",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-1",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2141442,
+            -33.9041561
+          ],
+          [
+            151.2150659,
+            -33.9006541
+          ]
+        ]
+      },
+      "id": "way/8598627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8598849",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-1",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2153179,
+            -33.8998641
+          ],
+          [
+            151.2151488,
+            -33.9006196
+          ],
+          [
+            151.2139813,
+            -33.9050664
+          ]
+        ]
+      },
+      "id": "way/8598849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/14082865",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-3",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2179257,
+            -33.8867407
+          ],
+          [
+            151.218007,
+            -33.8860183
+          ],
+          [
+            151.2180942,
+            -33.8855728
+          ],
+          [
+            151.2181162,
+            -33.8853757
+          ],
+          [
+            151.2181197,
+            -33.8852156
+          ],
+          [
+            151.2180983,
+            -33.8850898
+          ],
+          [
+            151.2180176,
+            -33.8848787
+          ]
+        ]
+      },
+      "id": "way/14082865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/14083153",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "-3",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "source": "LPI Basemap",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2180251,
+            -33.8720044
+          ],
+          [
+            151.2178771,
+            -33.8726757
+          ],
+          [
+            151.2177889,
+            -33.8732266
+          ],
+          [
+            151.2177077,
+            -33.8737978
+          ],
+          [
+            151.2175799,
+            -33.8747875
+          ],
+          [
+            151.217431,
+            -33.8759686
+          ]
+        ]
+      },
+      "id": "way/14083153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/14083208",
+        "bicycle": "no",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "-2",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Eastern Distributor Onramp",
+        "oneway": "yes",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2182758,
+            -33.8856889
+          ],
+          [
+            151.2182124,
+            -33.8854967
+          ],
+          [
+            151.218175,
+            -33.8853834
+          ],
+          [
+            151.2181101,
+            -33.8850737
+          ],
+          [
+            151.2180176,
+            -33.8848787
+          ]
+        ]
+      },
+      "id": "way/14083208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/14083300",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "-3",
+        "location": "underground",
+        "maxspeed": "60",
+        "name": "Anzac Parade Offramp",
+        "oneway": "yes",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2181275,
+            -33.8850597
+          ],
+          [
+            151.2186425,
+            -33.8860358
+          ],
+          [
+            151.2194865,
+            -33.8875857
+          ]
+        ]
+      },
+      "id": "way/14083300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26027664",
+        "destination": "Airport;Wolongong",
+        "destination:ref": "M1",
+        "destination:symbol": "airport",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "-3",
+        "location": "underground",
+        "name": "Eastern Distributor Offramp",
+        "oneway": "yes",
+        "source": "LPI Basemap",
+        "toll": "yes",
+        "tunnel": "yes",
+        "website": "www.crosscity.com.au"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2110249,
+            -33.8740205
+          ],
+          [
+            151.2115532,
+            -33.8738556
+          ],
+          [
+            151.211918,
+            -33.8737687
+          ],
+          [
+            151.2128403,
+            -33.8736625
+          ],
+          [
+            151.2130843,
+            -33.8736669
+          ],
+          [
+            151.2134361,
+            -33.8736863
+          ],
+          [
+            151.2137066,
+            -33.8737182
+          ],
+          [
+            151.2140584,
+            -33.8737799
+          ],
+          [
+            151.214801,
+            -33.8739988
+          ],
+          [
+            151.2158899,
+            -33.8742281
+          ],
+          [
+            151.216413,
+            -33.8743105
+          ],
+          [
+            151.2167426,
+            -33.8743763
+          ],
+          [
+            151.2173924,
+            -33.8745749
+          ],
+          [
+            151.2175426,
+            -33.8746038
+          ],
+          [
+            151.2177273,
+            -33.8746089
+          ],
+          [
+            151.2178659,
+            -33.8745782
+          ],
+          [
+            151.2179569,
+            -33.8745229
+          ],
+          [
+            151.2180384,
+            -33.8744352
+          ],
+          [
+            151.2180804,
+            -33.8743698
+          ],
+          [
+            151.2180971,
+            -33.8742905
+          ],
+          [
+            151.2180847,
+            -33.8742141
+          ],
+          [
+            151.2180556,
+            -33.8741386
+          ],
+          [
+            151.2180006,
+            -33.8740812
+          ],
+          [
+            151.2179149,
+            -33.8740345
+          ],
+          [
+            151.2178555,
+            -33.8740113
+          ],
+          [
+            151.2178171,
+            -33.8740048
+          ],
+          [
+            151.2177112,
+            -33.8739997
+          ],
+          [
+            151.2176057,
+            -33.8740184
+          ],
+          [
+            151.2175575,
+            -33.8740404
+          ],
+          [
+            151.217486,
+            -33.8740797
+          ],
+          [
+            151.2174219,
+            -33.8741406
+          ],
+          [
+            151.2173858,
+            -33.8742013
+          ],
+          [
+            151.2173381,
+            -33.8744126
+          ]
+        ]
+      },
+      "id": "way/26027664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26027694",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-1",
+        "location": "underground",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Cross City Tunnel",
+        "oneway": "yes",
+        "source": "LPI Basemap",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes",
+        "website": "www.crosscity.com.au"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2249876,
+            -33.8764992
+          ],
+          [
+            151.2243727,
+            -33.8764724
+          ],
+          [
+            151.2239203,
+            -33.8764118
+          ],
+          [
+            151.2233832,
+            -33.876319
+          ],
+          [
+            151.2230522,
+            -33.8762249
+          ],
+          [
+            151.2225646,
+            -33.8760641
+          ],
+          [
+            151.2221926,
+            -33.8759243
+          ],
+          [
+            151.2215839,
+            -33.8756301
+          ],
+          [
+            151.2209754,
+            -33.8753644
+          ],
+          [
+            151.2204667,
+            -33.8751701
+          ],
+          [
+            151.2200338,
+            -33.8750303
+          ],
+          [
+            151.2196087,
+            -33.8749095
+          ],
+          [
+            151.2190296,
+            -33.8747914
+          ],
+          [
+            151.2184834,
+            -33.8746926
+          ],
+          [
+            151.2166571,
+            -33.8744186
+          ],
+          [
+            151.2159397,
+            -33.874311
+          ]
+        ]
+      },
+      "id": "way/26027694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26027997",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "-4",
+        "location": "underground",
+        "name": "Cahill Expressway Offramp",
+        "oneway": "yes",
+        "source": "LPI Basemap",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2184834,
+            -33.8746926
+          ],
+          [
+            151.2177847,
+            -33.8746654
+          ],
+          [
+            151.2163866,
+            -33.8745771
+          ],
+          [
+            151.2160608,
+            -33.8745599
+          ],
+          [
+            151.215788,
+            -33.8745258
+          ],
+          [
+            151.2156624,
+            -33.8744895
+          ],
+          [
+            151.2155571,
+            -33.8744162
+          ],
+          [
+            151.2154494,
+            -33.8743094
+          ],
+          [
+            151.2153862,
+            -33.8741598
+          ],
+          [
+            151.2153794,
+            -33.8740147
+          ],
+          [
+            151.2154219,
+            -33.8738333
+          ],
+          [
+            151.2156496,
+            -33.8728557
+          ],
+          [
+            151.2157747,
+            -33.8722835
+          ],
+          [
+            151.2158336,
+            -33.8721073
+          ],
+          [
+            151.215906,
+            -33.8719619
+          ],
+          [
+            151.2160206,
+            -33.871811
+          ],
+          [
+            151.2162986,
+            -33.8715508
+          ],
+          [
+            151.2167681,
+            -33.8711257
+          ],
+          [
+            151.2171897,
+            -33.8707658
+          ]
+        ]
+      },
+      "id": "way/26027997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/50887066",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-2",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Cross City Tunnel",
+        "oneway": "yes",
+        "source": "LPI Basemap",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2133075,
+            -33.8738245
+          ],
+          [
+            151.2139598,
+            -33.873863
+          ],
+          [
+            151.2142942,
+            -33.8738947
+          ],
+          [
+            151.215002,
+            -33.8740074
+          ],
+          [
+            151.2159665,
+            -33.8741584
+          ],
+          [
+            151.216985,
+            -33.8743252
+          ]
+        ]
+      },
+      "id": "way/50887066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/83253102",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "-4",
+        "location": "underground",
+        "maxspeed": "40",
+        "name": "Eastern Distributor Onramp",
+        "oneway": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2175681,
+            -33.874121
+          ],
+          [
+            151.2175066,
+            -33.8741646
+          ],
+          [
+            151.2174606,
+            -33.8742038
+          ],
+          [
+            151.217409,
+            -33.8742717
+          ],
+          [
+            151.2173381,
+            -33.8744126
+          ],
+          [
+            151.2173334,
+            -33.8744977
+          ],
+          [
+            151.2173017,
+            -33.8746726
+          ],
+          [
+            151.2172239,
+            -33.8751045
+          ],
+          [
+            151.2172286,
+            -33.8753051
+          ],
+          [
+            151.2172907,
+            -33.8758964
+          ],
+          [
+            151.2173012,
+            -33.8761849
+          ],
+          [
+            151.2172579,
+            -33.8766376
+          ],
+          [
+            151.2171211,
+            -33.8777644
+          ],
+          [
+            151.2170057,
+            -33.8787487
+          ],
+          [
+            151.2169686,
+            -33.8790954
+          ],
+          [
+            151.2169936,
+            -33.8801087
+          ]
+        ]
+      },
+      "id": "way/83253102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/101511924",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "-1",
+        "location": "underground",
+        "name": "William Street Offramp",
+        "oneway": "yes",
+        "source": "interpolation",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2169487,
+            -33.8801503
+          ],
+          [
+            151.2169391,
+            -33.8796877
+          ],
+          [
+            151.2169176,
+            -33.8793381
+          ],
+          [
+            151.2169176,
+            -33.8789908
+          ],
+          [
+            151.2170579,
+            -33.8777936
+          ],
+          [
+            151.2171857,
+            -33.8768113
+          ],
+          [
+            151.2172453,
+            -33.8763629
+          ],
+          [
+            151.217244,
+            -33.8760129
+          ]
+        ]
+      },
+      "id": "way/101511924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111148541",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "-1",
+        "location": "underground",
+        "name": "Cross City Tunnel Onramp",
+        "oneway": "yes",
+        "source": "LPI Basemap",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2173501,
+            -33.8754926
+          ],
+          [
+            151.2174118,
+            -33.8752739
+          ],
+          [
+            151.2174487,
+            -33.8750923
+          ],
+          [
+            151.2174217,
+            -33.8749454
+          ],
+          [
+            151.2173914,
+            -33.8748762
+          ],
+          [
+            151.2173391,
+            -33.8747712
+          ],
+          [
+            151.2171769,
+            -33.8745995
+          ],
+          [
+            151.2169905,
+            -33.8745069
+          ],
+          [
+            151.2168837,
+            -33.8744742
+          ],
+          [
+            151.2166571,
+            -33.8744186
+          ]
+        ]
+      },
+      "id": "way/111148541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173225252",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "layer": "-2",
+        "location": "underground",
+        "maxheight": "4.4",
+        "name": "Lane Cove Tunnel Onramp",
+        "oneway": "yes",
+        "source:location": "LPI Basemap",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.1771518,
+            -33.8127469
+          ],
+          [
+            151.1771503,
+            -33.8128727
+          ],
+          [
+            151.1771178,
+            -33.8129485
+          ],
+          [
+            151.1770174,
+            -33.8130902
+          ],
+          [
+            151.1768236,
+            -33.8132648
+          ],
+          [
+            151.1765913,
+            -33.8133778
+          ],
+          [
+            151.1761581,
+            -33.8134496
+          ],
+          [
+            151.1760394,
+            -33.8134543
+          ],
+          [
+            151.1757821,
+            -33.8134253
+          ],
+          [
+            151.1755077,
+            -33.8133597
+          ],
+          [
+            151.1748526,
+            -33.8131305
+          ],
+          [
+            151.1742736,
+            -33.8129499
+          ],
+          [
+            151.1737849,
+            -33.8128341
+          ],
+          [
+            151.1734083,
+            -33.812761
+          ],
+          [
+            151.1729569,
+            -33.8126981
+          ],
+          [
+            151.1724618,
+            -33.8126311
+          ],
+          [
+            151.1715604,
+            -33.8124871
+          ]
+        ]
+      },
+      "id": "way/173225252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173225439",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-2",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Lane Cove Tunnel",
+        "oneway": "yes",
+        "ref": "M2",
+        "source:location": "LPI Imagery / LPI Basemap",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes",
+        "wikidata": "Q1231658"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.1807723,
+            -33.8126701
+          ],
+          [
+            151.1802737,
+            -33.8125577
+          ],
+          [
+            151.1798019,
+            -33.8124743
+          ],
+          [
+            151.1794045,
+            -33.8124139
+          ],
+          [
+            151.1787328,
+            -33.8123349
+          ],
+          [
+            151.1780775,
+            -33.8122966
+          ],
+          [
+            151.1770854,
+            -33.8123064
+          ],
+          [
+            151.1763986,
+            -33.8123604
+          ],
+          [
+            151.1750988,
+            -33.8125175
+          ],
+          [
+            151.1743129,
+            -33.8125845
+          ],
+          [
+            151.1734778,
+            -33.8126124
+          ],
+          [
+            151.1727694,
+            -33.8125896
+          ],
+          [
+            151.1715604,
+            -33.8124871
+          ]
+        ]
+      },
+      "id": "way/173225439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173226228",
+        "carriage": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "-2",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Lane Cove Tunnel",
+        "oneway": "yes",
+        "ref": "M2",
+        "source:location": "LPI Basemap",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes",
+        "wikidata": "Q1231658"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.1715604,
+            -33.8124871
+          ],
+          [
+            151.171376,
+            -33.8124592
+          ],
+          [
+            151.1707945,
+            -33.812367
+          ],
+          [
+            151.17016,
+            -33.8122224
+          ],
+          [
+            151.1686774,
+            -33.811821
+          ],
+          [
+            151.1666813,
+            -33.8112665
+          ],
+          [
+            151.1657934,
+            -33.8110598
+          ],
+          [
+            151.1642338,
+            -33.8107308
+          ],
+          [
+            151.1619195,
+            -33.8103017
+          ],
+          [
+            151.1608799,
+            -33.8101058
+          ],
+          [
+            151.1599312,
+            -33.8098941
+          ],
+          [
+            151.159163,
+            -33.8096811
+          ],
+          [
+            151.1583579,
+            -33.8094181
+          ],
+          [
+            151.1577733,
+            -33.8091878
+          ],
+          [
+            151.1570751,
+            -33.8088776
+          ],
+          [
+            151.1564033,
+            -33.8085368
+          ],
+          [
+            151.1560082,
+            -33.8083187
+          ],
+          [
+            151.1553748,
+            -33.8079336
+          ],
+          [
+            151.1546141,
+            -33.8074166
+          ],
+          [
+            151.1540741,
+            -33.8070381
+          ],
+          [
+            151.153414,
+            -33.8065908
+          ],
+          [
+            151.1530318,
+            -33.8063628
+          ],
+          [
+            151.1524053,
+            -33.8060103
+          ],
+          [
+            151.1514892,
+            -33.805564
+          ],
+          [
+            151.1509397,
+            -33.8053418
+          ],
+          [
+            151.1499722,
+            -33.8049455
+          ],
+          [
+            151.1492514,
+            -33.8046417
+          ],
+          [
+            151.1486185,
+            -33.8043156
+          ],
+          [
+            151.1483294,
+            -33.8041561
+          ],
+          [
+            151.1479715,
+            -33.8039488
+          ],
+          [
+            151.1473395,
+            -33.8035313
+          ],
+          [
+            151.1467535,
+            -33.8031083
+          ],
+          [
+            151.1462919,
+            -33.8027284
+          ],
+          [
+            151.1456703,
+            -33.8021627
+          ],
+          [
+            151.1451172,
+            -33.8017328
+          ]
+        ]
+      },
+      "id": "way/173226228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173226229",
+        "carriage": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-2",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Lane Cove Tunnel",
+        "oneway": "yes",
+        "ref": "M2",
+        "source:location": "LPI Basemap",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes",
+        "wikidata": "Q1231658"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.145218,
+            -33.8016601
+          ],
+          [
+            151.1457581,
+            -33.8020806
+          ],
+          [
+            151.1466359,
+            -33.8027814
+          ],
+          [
+            151.1471211,
+            -33.8031522
+          ],
+          [
+            151.1474408,
+            -33.8033857
+          ],
+          [
+            151.1479505,
+            -33.8037197
+          ],
+          [
+            151.1486446,
+            -33.8041243
+          ],
+          [
+            151.1494186,
+            -33.8045201
+          ],
+          [
+            151.150049,
+            -33.8047975
+          ],
+          [
+            151.1505362,
+            -33.8049958
+          ],
+          [
+            151.1513796,
+            -33.8053253
+          ],
+          [
+            151.1522602,
+            -33.8057337
+          ],
+          [
+            151.152707,
+            -33.8059683
+          ],
+          [
+            151.1532201,
+            -33.8062753
+          ],
+          [
+            151.1539586,
+            -33.8067524
+          ],
+          [
+            151.1543768,
+            -33.8070353
+          ],
+          [
+            151.1547807,
+            -33.8073127
+          ],
+          [
+            151.1561266,
+            -33.8081904
+          ],
+          [
+            151.1568068,
+            -33.808552
+          ],
+          [
+            151.1577305,
+            -33.8089819
+          ]
+        ]
+      },
+      "id": "way/173226229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173226823",
+        "highway": "motorway",
+        "lanes": "1",
+        "layer": "-2",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "name": "Pacific Highway Offramp",
+        "oneway": "yes",
+        "ref": "M2",
+        "source:location": "LPI Basemap",
+        "surface": "paved",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.1691671,
+            -33.811767
+          ],
+          [
+            151.1705892,
+            -33.8120522
+          ],
+          [
+            151.1710877,
+            -33.8121365
+          ],
+          [
+            151.1712099,
+            -33.8121496
+          ],
+          [
+            151.1717003,
+            -33.8122024
+          ],
+          [
+            151.1721437,
+            -33.8122325
+          ],
+          [
+            151.1728673,
+            -33.8122671
+          ],
+          [
+            151.1736672,
+            -33.8123056
+          ],
+          [
+            151.1742776,
+            -33.8123185
+          ],
+          [
+            151.1751514,
+            -33.8122391
+          ],
+          [
+            151.1758407,
+            -33.8121681
+          ]
+        ]
+      },
+      "id": "way/173226823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173226824",
+        "carriage": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "-2",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Lane Cove Tunnel",
+        "oneway": "yes",
+        "ref": "M2",
+        "source:location": "LPI Basemap",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes",
+        "wikidata": "Q1231658"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.1577305,
+            -33.8089819
+          ],
+          [
+            151.1585781,
+            -33.8093119
+          ],
+          [
+            151.159562,
+            -33.8096258
+          ],
+          [
+            151.1606513,
+            -33.8098941
+          ],
+          [
+            151.1617788,
+            -33.8101076
+          ],
+          [
+            151.1631567,
+            -33.8103675
+          ],
+          [
+            151.1650567,
+            -33.8107298
+          ],
+          [
+            151.1666198,
+            -33.8110744
+          ],
+          [
+            151.1677068,
+            -33.8113531
+          ],
+          [
+            151.1681591,
+            -33.8114796
+          ],
+          [
+            151.1691671,
+            -33.811767
+          ]
+        ]
+      },
+      "id": "way/173226824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173226825",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-2",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Lane Cove Tunnel",
+        "oneway": "yes",
+        "ref": "M2",
+        "source:location": "LPI Imagery / LPI Basemap",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes",
+        "wikidata": "Q1231658"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.1691671,
+            -33.811767
+          ],
+          [
+            151.1701962,
+            -33.8120509
+          ],
+          [
+            151.1710346,
+            -33.8122394
+          ],
+          [
+            151.1713172,
+            -33.8122789
+          ],
+          [
+            151.1719422,
+            -33.8123663
+          ],
+          [
+            151.172491,
+            -33.812405
+          ],
+          [
+            151.1731543,
+            -33.81243
+          ],
+          [
+            151.1738753,
+            -33.812412
+          ],
+          [
+            151.174454,
+            -33.8123737
+          ],
+          [
+            151.1759158,
+            -33.812185
+          ],
+          [
+            151.1771827,
+            -33.8120946
+          ],
+          [
+            151.1778781,
+            -33.8121011
+          ],
+          [
+            151.1781511,
+            -33.8121184
+          ],
+          [
+            151.17865,
+            -33.81216
+          ],
+          [
+            151.1791701,
+            -33.8122246
+          ],
+          [
+            151.1798806,
+            -33.8123587
+          ],
+          [
+            151.1808147,
+            -33.8125932
+          ]
+        ]
+      },
+      "id": "way/173226825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196950453",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-1",
+        "location": "underground",
+        "maxspeed": "80",
+        "maxspeed:variable": "yes",
+        "name": "Cross City Tunnel",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2159397,
+            -33.874311
+          ],
+          [
+            151.2145545,
+            -33.8740898
+          ],
+          [
+            151.2122429,
+            -33.8737349
+          ]
+        ]
+      },
+      "id": "way/196950453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210207199",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "-3",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2180176,
+            -33.8848787
+          ],
+          [
+            151.2178537,
+            -33.8845144
+          ],
+          [
+            151.2176499,
+            -33.8841268
+          ],
+          [
+            151.2175583,
+            -33.8838888
+          ],
+          [
+            151.217517,
+            -33.8836446
+          ],
+          [
+            151.217295,
+            -33.8826192
+          ],
+          [
+            151.2170492,
+            -33.8813383
+          ],
+          [
+            151.2169884,
+            -33.8809799
+          ],
+          [
+            151.2169499,
+            -33.880635
+          ],
+          [
+            151.2169363,
+            -33.8803615
+          ],
+          [
+            151.2169487,
+            -33.8801503
+          ],
+          [
+            151.217057,
+            -33.8788624
+          ],
+          [
+            151.2171896,
+            -33.8778119
+          ],
+          [
+            151.2172451,
+            -33.877254
+          ],
+          [
+            151.2172569,
+            -33.8771839
+          ]
+        ]
+      },
+      "id": "way/210207199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210207200",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "-3",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.217431,
+            -33.8759686
+          ],
+          [
+            151.2173411,
+            -33.8767676
+          ],
+          [
+            151.2172808,
+            -33.8772716
+          ],
+          [
+            151.217225,
+            -33.8778153
+          ],
+          [
+            151.2170968,
+            -33.8788799
+          ],
+          [
+            151.2169936,
+            -33.8801087
+          ],
+          [
+            151.2169854,
+            -33.8803161
+          ],
+          [
+            151.2169913,
+            -33.8804985
+          ],
+          [
+            151.2170166,
+            -33.8808551
+          ],
+          [
+            151.217105,
+            -33.8813542
+          ],
+          [
+            151.2173396,
+            -33.8826202
+          ],
+          [
+            151.2175521,
+            -33.8836372
+          ],
+          [
+            151.2175864,
+            -33.8838863
+          ],
+          [
+            151.2176874,
+            -33.8841258
+          ],
+          [
+            151.2178865,
+            -33.8845011
+          ],
+          [
+            151.2181275,
+            -33.8850597
+          ]
+        ]
+      },
+      "id": "way/210207200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210207201",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-3",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "source": "interpolation",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2181275,
+            -33.8850597
+          ],
+          [
+            151.2181546,
+            -33.8851909
+          ],
+          [
+            151.2181577,
+            -33.8853525
+          ],
+          [
+            151.2181286,
+            -33.8855766
+          ],
+          [
+            151.2180381,
+            -33.8860519
+          ],
+          [
+            151.2179806,
+            -33.8866934
+          ],
+          [
+            151.2179387,
+            -33.8872687
+          ]
+        ]
+      },
+      "id": "way/210207201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210207202",
+        "bicycle": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "-3",
+        "location": "underground",
+        "maxheight": "4.4",
+        "maxspeed": "80",
+        "name": "Eastern Distributor",
+        "old_network": "MR",
+        "old_ref": "1",
+        "oneway": "yes",
+        "ref": "M1",
+        "ref:start_date": "2013-08",
+        "source": "LPI Basemap",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2172569,
+            -33.8771839
+          ],
+          [
+            151.2173437,
+            -33.876454
+          ],
+          [
+            151.2174399,
+            -33.8756249
+          ],
+          [
+            151.2175514,
+            -33.8747396
+          ],
+          [
+            151.2176693,
+            -33.8737833
+          ],
+          [
+            151.2177368,
+            -33.8733409
+          ],
+          [
+            151.217743,
+            -33.8731203
+          ],
+          [
+            151.2177323,
+            -33.8729156
+          ],
+          [
+            151.2177318,
+            -33.8726205
+          ],
+          [
+            151.2177483,
+            -33.8724129
+          ]
+        ]
+      },
+      "id": "way/210207202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244269360",
+        "highway": "motorway",
+        "lanes": "2",
+        "layer": "-1",
+        "location": "underground",
+        "maxspeed": "80",
+        "name": "Cross City Tunnel",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes",
+        "tunnel": "yes",
+        "website": "www.crosscity.com.au"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.216985,
+            -33.8743252
+          ],
+          [
+            151.2178276,
+            -33.8744598
+          ],
+          [
+            151.2187439,
+            -33.8746166
+          ],
+          [
+            151.2193622,
+            -33.8747187
+          ],
+          [
+            151.219771,
+            -33.8747978
+          ],
+          [
+            151.2203525,
+            -33.8749331
+          ],
+          [
+            151.2210225,
+            -33.8751535
+          ]
+        ]
+      },
+      "id": "way/244269360"
+    }
+  ]
+}

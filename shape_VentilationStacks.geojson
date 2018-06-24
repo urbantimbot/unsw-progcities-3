@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-06-23T05:22:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/570085071",
+        "building:levels": "9",
+        "description": "Cross City Tunnel ventilation stack",
+        "man_made": "chimney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2014502,
+          -33.8740358
+        ]
+      },
+      "id": "node/570085071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712545663",
+        "description": "Eastern Distributor ventilation stack",
+        "man_made": "chimney",
+        "operator": "Transurban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2177534,
+          -33.8852558
+        ]
+      },
+      "id": "node/5712545663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712546776",
+        "addr:housenumber": "5",
+        "addr:state": "NSW",
+        "addr:street": "Sirius Road",
+        "addr:suburb": "Lane Cove West",
+        "description": "Lane Cove Tunnel - Lane Cove West ventilation stack ",
+        "man_made": "chimney",
+        "operator": "Transurban",
+        "website": "www.lanecovetunnel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1460654,
+          -33.8079115
+        ]
+      },
+      "id": "node/5712546776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712549410",
+        "addr:housenumber": "16",
+        "addr:state": "NSW",
+        "addr:street": "Marden Street",
+        "addr:suburb": "Artarmon",
+        "description": "Lane Cove Tunnel - Artarmon ventilation stack",
+        "man_made": "chimney",
+        "operator": "Transurban",
+        "website": "www.lanecovetunnel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1792293,
+          -33.8150469
+        ]
+      },
+      "id": "node/5712549410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712558836",
+        "addr:housenumber": "27",
+        "addr:state": "NSW",
+        "addr:street": "Henderson Street",
+        "addr:suburb": "Turella",
+        "description": "M5 East Tunnel ventilation stack",
+        "height": "35",
+        "man_made": "chimney",
+        "operator": "Ventia Pty Ltd on behalf of Roads and Maritime Services",
+        "website": "www.rms.nsw.gov.au/projects/sydney-south/m5-east/outside-air-quality-monitoring/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1413852,
+          -33.9278231
+        ]
+      },
+      "id": "node/5712558836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712571668",
+        "description": "Eastern Distributor - Darlinghurst ventilation stack",
+        "man_made": "chimney",
+        "operator": "Transurban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2170475,
+          -33.8758644
+        ]
+      },
+      "id": "node/5712571668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712644669",
+        "description": "Sydney Harbour Tunnel ventilation stack.",
+        "man_made": "chimney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2122462,
+          -33.8500746
+        ]
+      },
+      "id": "node/5712644669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712670607",
+        "description": "Sydney Harbour Tunnel ventilation stack. Enclosed within Harbour Bridge northern pylon.",
+        "man_made": "chimney",
+        "operator": "Sydney Harbour Tunnel Company (Transfield Holdings owns the Sydney Harbour Tunnel Company (Transfield Hodings Kumagai Gumigai, Olbia Pty Ltd joint venture)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2119405,
+          -33.8499557
+        ]
+      },
+      "id": "node/5712670607"
+    }
+  ]
+}
